@@ -7,9 +7,7 @@ Created an Android application that helps to find empty parking close to the des
 
 # Skills : 
 •	Strong programming skills using C and C++.	
-
 •	Programming using Python, Java, Erlang, Verilog, Assembly.	
-
 •	Working in Linux environment.
 •	Good knowledge of Android Studio. 	
 •	Version control system : Git.	
