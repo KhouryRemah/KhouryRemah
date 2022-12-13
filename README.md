@@ -1,9 +1,10 @@
 
 # Summary :
-Hard-working Junior Software Engineer who has recently graduated from the Technion – Israel Institute of Technology.
-Seeking to use proven skills in coding, debugging and problem-solving in an engineer position.
-Have great interpersonal skills such as excellent communication and ability to work well in a team environment. 
-Created an Android application that helps to find empty parking close to the destination in the Technion campus. 
+Hard-working Junior Software Engineer who has recently graduated from the Technion – Israel Institute of 
+Technology. Seeking to use proven skills in coding, debugging and problem-solving in an engineering position. Have 
+great interpersonal skills such as excellent communication and ability to work well in a team environment. Created 
+an Android application that finds the nearest empty parking spot to the required destination in the Technion 
+campus.
 
 # Skills : 
 •	Strong programming skills using C and C++.
@@ -31,6 +32,8 @@ Created an Android application that helps to find empty parking close to the des
 •	Excellent interpersonal skills.
 
 •	Quick learner.
+
+•	Strong design skills
 
 # Projects:
 ▪ Android Application: designed an Android application aimed to help car owners in the Technion 
