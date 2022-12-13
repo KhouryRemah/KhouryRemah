@@ -2,7 +2,7 @@
 # Summary :
 Hard-working Junior Software Engineer who has recently graduated from the Technion – Israel Institute of 
 Technology. Seeking to use proven skills in coding, debugging and problem-solving in an engineering position. Have 
-great interpersonal skills such as excellent communication and ability to work well in a team environment. Created 
+great interpersonal skills such as excellent communication and ability to work well in a team environment. Implemented 
 an Android application that finds the nearest empty parking spot to the required destination in the Technion 
 campus.
 
